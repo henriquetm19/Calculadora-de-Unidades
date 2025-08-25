@@ -1,4 +1,4 @@
-#Projeto: Conversor de Unidades para Restaurante
+#Projeto: Conversor de Unidades para Restaurante em Python
 
 Objetivo: Converter unidades comuns usadas em restaurantes, como garrafas ↔ caixas, bandejas ↔ kg, litros ↔ ml e unidades ↔ dúzias.
 
